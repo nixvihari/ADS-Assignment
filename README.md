@@ -1,6 +1,6 @@
 ### ADS Assignment
 
-This repository consists of 2 sub-directories each with jupyter notebooks.
+This repository consists of 3 sub-directories with jupyter notebooks and output.
 
 #### Table of Contents
 
@@ -11,4 +11,6 @@ This repository consists of 2 sub-directories each with jupyter notebooks.
     3. Centrality Measure
     4. k-Components and Clustering Coefficient
     5. Community Detection
-
+3. Output
+	1. NER Output
+	2. Zachary's Karate Club Network PDF Export
