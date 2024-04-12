@@ -1,0 +1,92 @@
+DATE
+
+the beginning of the 20th century
+1809
+1914
+the early 20th century
+1944
+the following year
+fifty years
+the 1940s
+-------------------------------------
+GPE
+
+the United Kingdom
+Kariong
+Monbulk
+-------------------------------------
+ORDINAL
+
+first
+first
+-------------------------------------
+ORG
+
+Springwell
+The Royal Horticultural Society
+Merit
+the New South Wales Government
+Parry
+Order of Australia
+Dural
+the Society for Growing Australian Plants
+-------------------------------------
+CARDINAL
+
+one
+1922.[11
+1981.[26
+-------------------------------------
+PERSON
+
+E. J. A. Woodford Esq
+bush
+Percy Parry of Floralands
+Olive
+Percy
+Parrys
+Howard Gay
+Arch Dennis
+Sid Cadwell
+Frank Stone
+-------------------------------------
+WORK_OF_ART
+
+Preservation by Cultivation
+-------------------------------------
+FAC
+
+the Dandenong Ranges
+-------------------------------------
+LOC
+
+Blue Mountains
+-------------------------------------
+NORP
+
+Australian
+-------------------------------------
+
+    
+------------------------------------- 
+Named Entities Description:
+
+PERSON:      People, including fictional.
+NORP:        Nationalities or religious or political groups.
+FAC:         Buildings, airports, highways, bridges, etc.
+ORG:         Companies, agencies, institutions, etc.
+GPE:         Countries, cities, states (GeoPolitical Entities)
+LOC:         Non-GPE locations, mountain ranges, bodies of water.
+PRODUCT:     Objects, vehicles, foods, etc. (Not services.)
+EVENT:       Named hurricanes, battles, wars, sports events, etc.
+WORK_OF_ART: Titles of books, songs, etc.
+LAW:         Named documents made into laws.
+LANGUAGE:    Any named language.
+DATE:        Absolute or relative dates or periods.
+TIME:        Times smaller than a day.
+PERCENT:     Percentage, including ”%“.
+MONEY:       Monetary values, including unit.
+QUANTITY:    Measurements, as of weight or distance.
+ORDINAL:     “first”, “second”, etc.
+CARDINAL:    Numerals that do not fall under another type.
+    
